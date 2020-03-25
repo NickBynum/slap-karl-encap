@@ -1,0 +1,11 @@
+.bg-brown{
+background-color: rgb(231, 156, 69);
+}
+
+.bg-body{
+  background-color: rgb(22, 13, 0);
+}
+
+.hidden{
+  display: none;
+}
